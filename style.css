@@ -1,0 +1,19 @@
+[href]{
+    color: red;
+    font-size: 30px;
+}
+[target="_blank"]{
+    color: yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+}
+[target="_self"]{
+    color: blue;
+}
+/* [title~="abc"]{
+    color: blue;
+} */
+ [title *="pic"]{
+    color: burlywood;
+ }
